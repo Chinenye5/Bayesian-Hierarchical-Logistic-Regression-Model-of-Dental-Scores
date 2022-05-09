@@ -1,0 +1,2 @@
+# Bayesian-Hierarchical-Logistic-Regression-Model-of-Dental-Scores
+This analysis is to assess the performance of caregivers working in the care facilities in the Flanders region in Belgium. Two different analyses were conducted. However, in the first analysis, only the observations (patients) dentist assess as healthy were considered while in the second analysis only the observations dentist assess as not healthy were considered.
